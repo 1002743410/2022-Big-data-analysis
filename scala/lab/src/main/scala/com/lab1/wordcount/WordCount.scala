@@ -1,4 +1,4 @@
-package com.lab1.wordcount
+package com.lab.wordcount
 
 import scala.io.Source
 
