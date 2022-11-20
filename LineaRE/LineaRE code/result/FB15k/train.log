@@ -1,0 +1,10 @@
+2022-10-21 02:27:01 | INFO:  #ent_num: 14951
+2022-10-21 02:27:01 | INFO:  #rel_num: 1345
+2022-10-21 02:27:01 | INFO:  #train triple num: 483142
+2022-10-21 02:27:01 | INFO:  #valid triple num: 50000
+2022-10-21 02:27:01 | INFO:  #test triple num: 59071
+2022-10-21 02:27:02 | INFO:  >>> Model Parameter Configuration:
+2022-10-21 02:27:02 | INFO:  Parameter ent_embd.weight: torch.Size([14951, 1000]), require_grad = True
+2022-10-21 02:27:02 | INFO:  Parameter rel_embd.weight: torch.Size([1345, 1000]), require_grad = True
+2022-10-21 02:27:02 | INFO:  Parameter wrh.weight: torch.Size([1345, 1000]), require_grad = True
+2022-10-21 02:27:02 | INFO:  Parameter wrt.weight: torch.Size([1345, 1000]), require_grad = True
